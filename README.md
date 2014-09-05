@@ -27,3 +27,9 @@
 * 佈署經驗分享 (Ex. 佈署方式、使用的 VPS 服務、佈署技巧)
 * 營運經驗分享 (Ex. 上線後數據分享、網站或服務營運分享)
 
+## 可放置投影片的線上服務
+
+* [Speaker Deck](https://speakerdeck.com/)
+* [Slide Share](http://www.slideshare.net/)
+* [Google Drive](https://drive.google.com/)
+* [Slides](http://slides.com/)
